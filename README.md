@@ -1,2 +1,2 @@
 # Projects
-C/C++ projects
+C++ projects
