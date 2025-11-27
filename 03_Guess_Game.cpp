@@ -42,7 +42,7 @@ void game(int num, int guesses, int difficulty)
       {
         if(user_guess > num)
           cout << "\nGuess Smaller Number" << endl;
-        else
+        else if(user_guess < num)
           cout << "\nGuess Bigger Number" << endl;
       }
         
